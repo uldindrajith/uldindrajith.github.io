@@ -255,14 +255,14 @@ nav ul li a:hover{
     align-items: center;
     flex-direction: column;
 }
-.c-box-container{
+.d-box-container{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     margin:20px 0px;
 }
-.client-box {
+.desc-box {
     width:310px;
     height: 400px;
     background-color: #FFFFFF;
@@ -275,13 +275,13 @@ nav ul li a:hover{
     margin: 20px;
     box-shadow: 5px 10px 30px rgba(0,0,0,0.08);
 }
-.client-box img{
+.desc-box img{
     width:90px;
     height: 90px;
     border-radius: 50%;
     object-fit: cover;
 }
-.client-box strong{
+.desc-box strong{
     color:#1c3548;
     margin:0px;
     font-size: 1.1rem;
@@ -295,7 +295,7 @@ display: flex;
 .star i{
     color:#ff9529;
 }
-.client-box p{
+.desc-box p{
     color:#747474;
     font-size: 0.9rem;
     margin:0px;
@@ -308,7 +308,7 @@ display: flex;
     overflow: hidden;
     text-overflow: ellipsis;
 }
-.client-box a{
+.desc-box a{
     width:190px;
     height: 44px;
     display: flex;
@@ -319,12 +319,12 @@ display: flex;
     border-radius: 20px;
     box-shadow: 4px 10px 30px rgba(24,139,119,0.2);
 }
-.client-box a{
+.desc-box a{
     width:175px;
     margin-top: 20px;
     border-radius: 0px;
 }
-.client-box:hover{
+.desc-box:hover{
     transform: translateY(-10px);
     box-shadow: 5px 10px 30px rgba(0,0,0,0.1);
     background-color: #23cdaf;
