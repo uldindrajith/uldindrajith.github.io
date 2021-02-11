@@ -10,7 +10,6 @@ body{
     padding: 0px;
     font-family: Poppins;
     background-image: url('Images/cool-background.png');
-    background-repeat: no-repeat;
 }
 *{
     box-sizing:border-box;
