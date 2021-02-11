@@ -315,7 +315,7 @@ display: flex;
     display: block;
     display: -webkit-box;
     max-width: 80%;
-    -webkit-line-clamp:9;
+    -webkit-line-clamp:12;
     -webkit-box-orient:vertical;
     overflow: hidden;
     text-overflow: ellipsis;
