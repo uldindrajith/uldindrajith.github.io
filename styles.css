@@ -194,7 +194,7 @@ nav ul li a:hover{
 	flex-direction: column;
 }
 .recent-heading span,
-.client-heading span{
+.interests-heading span{
 	color:#36b7b5;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -202,7 +202,7 @@ nav ul li a:hover{
 	font-size: 1.1rem;
 }
 .recent-heading h3,
-.client-heading h3,
+.interests-heading h3,
 #contact h3{
 	color:#1c3548;
 	font-size: 3rem;
@@ -240,7 +240,7 @@ nav ul li a:hover{
 .mySlides {
     display:none;
 }
-#client{
+#interests{
     width:100%;
     border-top: 1px solid rgba(58,58,58,0.03);
     border-bottom: 1px solid rgba(58,58,58,0.03);
@@ -249,7 +249,7 @@ nav ul li a:hover{
     background-position: center;
     background-size: 1000px;
 }
-.client-heading{
+.interests-heading{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -303,7 +303,7 @@ display: flex;
     display: block;
     display: -webkit-box;
     max-width: 80%;
-    -webkit-line-clamp:4;
+    -webkit-line-clamp:7;
     -webkit-box-orient:vertical;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -320,7 +320,7 @@ display: flex;
     box-shadow: 4px 10px 30px rgba(24,139,119,0.2);
 }
 .client-box a{
-    width:140px;
+    width:175px;
     margin-top: 20px;
     border-radius: 0px;
 }
