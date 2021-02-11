@@ -1,9 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
+
+@font-face {
+    font-family: "Poppins";
+    src: url("Poppins/Poppins-SemiBold.ttf");
+}
 body{
     margin:0px;
     padding: 0px;
-    font-family: poppins;
+    font-family: Poppins;
     
 }
 *{
