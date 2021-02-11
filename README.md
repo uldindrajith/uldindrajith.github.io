@@ -11,7 +11,7 @@ Copy Paste the Following URL
 https://uldindrajith.github.io/
 ```
 ```
-[To the Site](https://uldindrajith.github.io/)
+[Site](https://uldindrajith.github.io/)
 ```
 
 ## Contributing
