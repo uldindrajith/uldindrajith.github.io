@@ -186,6 +186,18 @@ nav ul li a:hover{
 .fa-js-square{
     color:#f98231;
 }
+.fa-java{
+    color:#5382a1;
+}
+.fa-python{
+    color:#ffd43b;
+}
+.fa-microsoft{
+    color:#00A4EF;
+}
+.fa-database{
+    color:#00758F;
+}
 #recent{
 	display: flex;
 	justify-content: center;
