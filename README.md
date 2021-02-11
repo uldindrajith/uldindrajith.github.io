@@ -5,9 +5,13 @@ There is nothing much serious just a plain old website to showcase what I have.
 
 ## Usage
 
-```
 Go to the following URL to see the website on live.
+```
+Copy Paste the Following URL
 https://uldindrajith.github.io/
+```
+```
+[To the Site](https://uldindrajith.github.io/)
 ```
 
 ## Contributing
